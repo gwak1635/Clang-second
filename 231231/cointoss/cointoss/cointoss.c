@@ -26,6 +26,7 @@ int main() {
 	printf("동전의 앞면: %d", front);
 	printf("동전의 뒷면: %d", back);
 
+	return 0;
 }
 
 int tossing() {
